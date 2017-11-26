@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+net.redrobin.eclipse.jydt.preferences.defaultclasspath=\n
+net.redrobin.eclipse.jydt.preferences.jythonhome=E\:/jython2.7.0
+net.redrobin.eclipse.jydt.preferences.jythonjar=E\:/jython2.7.0/jython.jar
+net.redrobin.eclipse.jydt.preferences.jythonlibrary=E\:/jython2.7.0/Lib

@@ -1,0 +1,2 @@
+user_id	nickname	sex	age	education_level	constellation	waist_circumference	height	body_type	colour	income	brand	married	pregnant_inhouse	child	child_age	child_sex	car	house	purchase_group	active_level	purchase_type	evaluate_concern	sale_sensitive	purchase_potential	purchase_loyalty	purchase_ability	purchase_credit	food	hotel	tourist	entertainment	first_traffic	second_traffic	
++1	random	0-1	1-80	1-5	1-12	11-80	140-200	1-3	1-10	0-100000	1-10	0-1	0-1	0-1	0-50	0-1	0-1	0-1	1-10	1-10	1-10	1-10	1-10	1-10	1-10	1-10	1-10	0000000	000	0000000000	0000000000	1-6	1-6
